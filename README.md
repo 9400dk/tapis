@@ -15,4 +15,5 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                     <li>Det tager under 5 minutter at installere standardversionen. Når det er gjort kan man slette                             install-folderen
                 </ul>
         </ul>
-    <li>Version_2    
+    <li>Version_2
+</ul>
