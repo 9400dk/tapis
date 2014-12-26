@@ -14,4 +14,5 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                     <li>Du skal bruge dit servernavn, login til databasen (brugernavn og password) samt navnet på                                databasen
                     <li>Det tager under 5 minutter at installere standardversionen. Når det er gjort kan man slette                             install-folderen
                 </ul>
-            
+        </ul>
+    <li>Version_2    
