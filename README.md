@@ -16,4 +16,14 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                 </ul>
         </ul>
     <li>Version_2
+        <ul>
+            <li>Følgende foldere og filer er rettet/uploadet under installationen.
+                <ul><li>Oprettet en folder ved navn <i>temp</i>
+                    <li>I folderen <i>admin<i/> er følgende uploadet:
+                        <ul>
+                            <li>Folderen EPDocumentation, der indeholder contents.htm, index.html & links.html
+                            <li>filen easypopulate.php, easypopulate.php.orig & easypopulate_functions.php
+                        </ul>
+                </ul>
+        </ul>
 </ul>
