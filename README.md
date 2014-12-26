@@ -25,6 +25,8 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                             <li>filen <i>easypopulate.php</i>, <i>easypopulate.php.orig</i> &                 
                                 <i>easypopulate_functions.php</i>
                         </ul>
+                    <li>Ud over ovenstående filer, der bare skal uploades er der rettelser til en enkelt fil. Læs
+                        evt vejledningen, der følger med filen
                 </ul>
         </ul>
 </ul>
