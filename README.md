@@ -52,6 +52,11 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                     <ul>
                         <li>Filerne <i>extra_fields.php</i> & <i>extra_values.php</i>
                     </ul>
-                    <li>I folderen <i>images</i> er en folder med navn <i>eps</i> oprettet
+                    <li>I folderen <i>images</i> er en folder med navn <i>eps</i> oprettet. (mappen er tom)
+                    <li>I folderen <i>includes</i> er følgende fil uploadet:
+                    <ul>
+                        <li>Filen <i>template_top_extra_fields.php</i>
+                    </ul>
+                    <b>Du mangler filerne i mappen changed files!!!!!!!!!!!
                     
 </ul>
