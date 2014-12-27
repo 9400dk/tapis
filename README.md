@@ -20,7 +20,7 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
             <li>Filerne til dette add-on kan hentes <a href="http://addons.oscommerce.com/info/7725">her</a>
             <li>EasyPopulate gør det lettere at oprette ens database/varekartotek når der kommer mange produkter, 
                 forskellige sprog, mange atrinutter osv. fordi det nu kan ske ved at down- og uploade en cvs-fil, som
-                man kan lave i Excel, >Google Documents eller OpenOffice
+                man kan lave i Excel, Google Documents eller OpenOffice
             <li>Følgende foldere og filer er rettet/uploadet under installationen.
                 <ul><li>Oprettet en folder ved navn <i>temp</i>
                     <li>I folderen <i>admin</i> er følgende uploadet:
