@@ -34,6 +34,7 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                 </ul>
         </ul>
     <li><b>Version_3 - Products Extra Fields</b>
+        <ul>
             <li>Filerne til dette add-on kan hentes <a href="http://addons.oscommerce.com/info/7810">her</a>
             <li>Products Extra Fields giver mulighed for let at oprette nye felter til dine produkter. F.eks. et felt 
                 stregkoder, lokation, længder osv.<br>
