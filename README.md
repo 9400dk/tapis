@@ -6,7 +6,7 @@ Systemet er baseret på et stykke E-handelssoftware som bliver kraftigt modifice
 
 Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
 <ul>
-    <li>Original
+    <li><b>Original</b>
         <ul>
             <li>Indeholder skærmdump af phpinfo på det webhotel (Gigahost) som siden laves på, samt originalfilerne, der                 modificeres på.
                 <ul><li>Først sættes databasen op på dit webhotrel
@@ -15,7 +15,7 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                     <li>Det tager under 5 minutter at installere standardversionen. Når det er gjort kan man slette                             install-folderen
                 </ul>
         </ul>
-    <li>Version_2 - Easy Populate
+    <li><b>Version_2 - Easy Populate</b>
         <ul>
             <li>Filerne til dette add-on kan hentes <a href="http://addons.oscommerce.com/info/7725">her</a>
             <li>EasyPopulate gør det lettere at oprette ens database/varekartotek når der kommer mange produkter, 
@@ -33,6 +33,14 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                         evt vejledningen, der følger med filen
                 </ul>
         </ul>
-    <li>Version_3 - Products Extra Fields
+    <li><b>Version_3 - Products Extra Fields</b>
+            <li>Filerne til dette add-on kan hentes <a href="http://addons.oscommerce.com/info/7810">her</a>
+            <li>Products Extra Fields giver mulighed for let at oprette nye felter til dine produkter. F.eks. et felt 
+                stregkoder, lokation, længder osv.<br>
+                Værdierne er søgbare. De felter du opretter dukker op som søgbare i 'Avanceret søgning'
+            <li>Følgende folderer og filer er rettet/uploadet under installationen:
+                <ul><li>I folderen <i>admin =>images </i> er følgende uploadet:
+                    <ul>
+                        <li>Filen <i>EPF_Example_Image.jpg</i>
     
 </ul>
