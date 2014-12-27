@@ -33,4 +33,6 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                         evt vejledningen, der følger med filen
                 </ul>
         </ul>
+    <li>Version_3 - Products Extra Fields
+    
 </ul>
