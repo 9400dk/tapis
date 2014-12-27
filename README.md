@@ -39,8 +39,17 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                 stregkoder, lokation, længder osv.<br>
                 Værdierne er søgbare. De felter du opretter dukker op som søgbare i 'Avanceret søgning'
             <li>Følgende folderer og filer er rettet/uploadet under installationen:
-                <ul><li>I folderen <i>admin =>images </i> er følgende uploadet:
+                <ul><li>I folderen <i>admin => images </i> er følgende uploadet:
                     <ul>
                         <li>Filen <i>EPF_Example_Image.jpg</i>
+                    </ul>
+                    <li>I folderen <i>admin => includes => languages => english </i> er følgende uploadet:
+                    <ul>
+                        <li>Filerne <i>extra_fields.php</i> & <i>extra_values.php</i>
+                    </ul>
+                    <li>I folderen <i>admin</i> er følgende uploadet:
+                    <ul>
+                        <li>Filerne <i>extra_fields.php</i> & <i>extra_values.php</i>
+                    </ul>
     
 </ul>
