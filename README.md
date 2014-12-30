@@ -61,6 +61,9 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                     
 </ul></ul>
 
+
+
+<br><br><br><br><br>
 <ul>
 <li>a href="http://addons.oscommerce.com/info/8728/v,23">Show order id</a><br>A single line to show orders id in order page or where you wish, no upload required, just add a single line.
 <li>
