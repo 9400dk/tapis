@@ -59,7 +59,7 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
                     </ul>
                     <b>Du mangler filerne i mappen changed files!!!!!!!!!!!
                     
-</ul></ul>
+</ul>
 
 
 
