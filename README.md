@@ -66,5 +66,11 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
 <br><br><br><br><br>
 <ol>
 <li>a href="http://addons.oscommerce.com/info/8728/v,23">Show order id</a><br>A single line to show orders id in order page or where you wish, no upload required, just add a single line.
-<li>
+<li><a href="http://addons.oscommerce.com/info/8741/v,23">Skip Payments Page</a><br>This add-on is written to skip the payments page if the basket total is zero.
+<li><a href="http://addons.oscommerce.com/info/8742/v,23">Skip Shipping Page</a><br>
+This add-on is written to skip the shipping page if the basket total is zero and the total weight is zero. You can amend these rules to reflect your requirements.
+<li>a href="http://addons.oscommerce.com/info/7703/v,23">Tab Menu Section (TMS)</a><BR>With this add-on you can add a tab-menu with content to the products site, see screenshot.jpg inside of this package.
+This contribution is very useful if you have a lot of content for articles and no space on the article page. For example,
+you can create tabs for: Description, Additional Images, Reviews, Related Products, Prices, Twitter, Facebook etc.
+<li><a href="http://addons.oscommerce.com/info/8751/v,23">Choose destination on Log in if cart has items</a><br>This addon detects if an item is in the customers shopping cart when they log in, if there is then they are presented with a choice page.
 </ol>
