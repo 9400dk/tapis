@@ -79,5 +79,10 @@ you can create tabs for: Description, Additional Images, Reviews, Related Produc
 <li><a href="http://addons.oscommerce.com/info/8794/v,23">Purchases Addon</a><br>This addon will allow you to key in products that you have bought from your suppliers/manufacturers so that you can keep track of the purchases that you have made, to view your current stock levels of each product, and to view the stock flow of your items.
 This addon will appear in your admin page on the left below "Catalog".
 <li><a href="http://addons.oscommerce.com/info/8378/v,23">Shop By Attribute</a><br>This contribution allows you to add a a Shop by feature on your site so you customers can shop by color, size or any other attribute you have.
-<li>
+<li>< a href="http://addons.oscommerce.com/info/8364/v,23">PDF Datasheet</a><br>This addon creates a PDF document containing the information found on each of your osCommerce product pages. This allows your customer to save or print a nice-looking catalog page for each of your products.
+<li><a href="http://addons.oscommerce.com/info/8868/v,23">Display Both Products & Categories</a><br>
+By default osCommerce only displays the products contained in a category if the category happens to contain both products and other subcategories. Since users browsing the web site might not notice that the category contains subcategories if they are listed only in the categories info box I wanted to display both the subcategories and the products contained in the category in the main window. This modification allows you to do that with simple changes to only one file.
+<li><a href="http://addons.oscommerce.com/info/7993/v,23">One Page Checkout for 2.3.1</a>
+<li><a href="http://addons.oscommerce.com/info/8982/v,23">Thumbnail Pop-Up</a><br>his simple add-on replaces the default 2.3+ image functionality in product_info.php to give the image pop-up directly when clicking on the thumbnails.
+<li></a href="http://addons.oscommerce.com/info/8988/v,23">Gray Oscommerce 2.3.3.4 Template</a><br>Simple Gray template for 2.3.3.4 utilizing a Jquery UI Bootstrap style skin and Colorbox image popup.
 </ol>
