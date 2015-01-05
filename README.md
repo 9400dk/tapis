@@ -88,26 +88,88 @@ By default osCommerce only displays the products contained in a category if the 
 <li><a href="http://addons.oscommerce.com/info/8991/v,23">Fast Status change button</a><br>it's little addon for faster order status change. If you are changing order's statuses with same comments, you can prepare new update buttons like bind in CounterStrike.
 <li><a href="http://addons.oscommerce.com/info/9017/v,23">Customer Checkout Blacklist</a><br>This module will help block potentially fraudulent customers checking out on your shop and preventing future charge-backs; whilst retaining the customer on the store to keep a record of the transactions and to be able to communicate with said customer.
 <li><a href="http://addons.oscommerce.com/info/9014/v,23">Advanced Categories Box V1.0</a><br>This is an osCommerce 2.3.x rewrite of the original RC2 version of the categories box. The primary differences between this and the osCommerce version are as follows:
-    <ul><li>1) Easy N level categories navigation.
-        <li>2) A sidebar menu is included to make it easy to go to any category without requiring multiple mouse clicks.
-        <li>3) A nice little pointer image replaces the -> text to indicate that a category has a subcategory.
-    </ul>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
+    <ol><li>Easy N level categories navigation.
+        <li>A sidebar menu is included to make it easy to go to any category without requiring multiple mouse clicks.
+        <li>A nice little pointer image replaces the -> text to indicate that a category has a subcategory.
+    </ol>
+<li><a href="http://addons.oscommerce.com/info/9047/v,23">categories and products on one page (cap)</a><br>If sub-categories and products exists in one categorie, only the products are shown. The sub-categories are only shown in the category box. With this contribution the sub-categories and the products are both shown at the same time.
+<li><a href="http://addons.oscommerce.com/info/9051/v,23">Common Product Notes for osCommerce 2.3</a><br>This contribution provides an easy way to add footnotes to products such as "discontinued when sold out" or "limited to stock on hand". The contribution is multi-language capable with a separate translation of the note for each installed language. Notes are displayed like they would be in a book with superscript numbers behind the product name indicating applicable notes and the actual note explanations at the bottom of the page.
+<li><a href="http://addons.oscommerce.com/info/8384/v,23">Categories Expanded</a><br>Categories and subcategories are visible and expanded default version of oscommerce 2.3
+<li><a href="http://addons.oscommerce.com/info/7717/v,23">Login Box</a><br>Adds a login box to left/right column
+Displayes the My Account Links if logged in (optional) Displays a welcome greeting with customers first name (optional)
+<li><a href="http://addons.oscommerce.com/info/9098/v,23">If price = 0.00 dont display price (Update)</a>
+<li><a href="http://addons.oscommerce.com/info/9089/v,23">Shopping List</a><br>This addon provides a Shopping List that your customers can use to keep track of items that they want to reorder periodically, or that they want to save for a future order. It was designed for an osCommerce store that sells consumables, but it works with any type of business that wants to increase repeat business.
+<li><a href="http://addons.oscommerce.com/info/8306/v,23">Social Login</a><br>This plugin adds social login on an osCommerce site letting users log in through their existing IDs such as Facebook, Twitter, Google, Yahoo and over 15 more! This eliminates lengthy registration process i.e. filling up a long registration form, verifying email ID, remembering another username and password so your users are just one click away from logging in to your website. Other than social login, this plugin also provides User Profile Data and Social Analytics.
+<li><a href="http://addons.oscommerce.com/info/8490/v,23">Extra pages-info box w/ admin for OSC2.3</a><br>Do you need an "About Us" page? Maybe a "Company News" page that needs updating?
+Now you can make as many as you want with the links in 1 new Information Box.
+This contribution allows you to create and manage new pages (like Shipping or Conditions) on the fly.
+It also creates a new box that holds the page names which are links to those pages.
+In Admin, you click new, enter a title and the page text or HTML. You can Add, Edit, Delete pages as well as turn them on and off with Status. 
+When you create a new page, the link in the box appears automatically!
+If you delete a page or turn it off with Status, the link in the box disappears automatically!
+<li><a href="http://addons.oscommerce.com/info/7724/v,23">Down for Maintenance</a>
+<li><a href="http://addons.oscommerce.com/info/8555/v,23">Notify when back in stock</a><br>This add-on will give your customers the option to contact you to register their interest in purchasing youre out of stock products when they return to stock.
+It checks stock levels and if a selected item is out of stock it will replace the add to cart button with a notify me button, once clicked will take the user to another "notify" page, that contains the product information, they then enter their details and click continue and you will receive an email from the users email making it easy to reply once back in stock.
+<li><a href="http://addons.oscommerce.com/info/9169/v,23">NotifyVisitors - Notification Management Software</a><br>Create notifications and show them to target audience based on multiple filters like location, traffic source, browser or device type, visit frequency or duration, time of day, page views, operating system, cookie, leave intent targeting, custom data rules and many more.
+<li><a href="http://addons.oscommerce.com/info/7786">QTpro for osc 2.3</a><br>Track and manage attribute stock.
+You need this if you sell 1 items with various attributes, and you want to control stock on attribute level.
 
-
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
 
 
 </ol>
