@@ -175,7 +175,7 @@ If your brower in english, it's shows the box in english.
 This contribution will create a unique Order Number, which is basically based on php's date() function.
 The order number will consist of: Month, Year, Hour, Minute, Second. Basically:
 date("mdY-His") = mmddyyyy-hhmmss (14 DIGITS)
-<li><a href=""></a><br>
+<li><a href="http://addons.oscommerce.com/info/1611">More_Pics_6 for 2.2 ms2</a><br>Add UP to 6 more Pics to Oscommerce 2.2 ms2. This will allow you to use 0-7 pics with oscommerce 2.2 ms2
 <li><a href=""></a><br>
 <li><a href=""></a><br>
 <li><a href=""></a><br>
