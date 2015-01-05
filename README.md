@@ -85,4 +85,29 @@ By default osCommerce only displays the products contained in a category if the 
 <li><a href="http://addons.oscommerce.com/info/7993/v,23">One Page Checkout for 2.3.1</a>
 <li><a href="http://addons.oscommerce.com/info/8982/v,23">Thumbnail Pop-Up</a><br>his simple add-on replaces the default 2.3+ image functionality in product_info.php to give the image pop-up directly when clicking on the thumbnails.
 <li></a href="http://addons.oscommerce.com/info/8988/v,23">Gray Oscommerce 2.3.3.4 Template</a><br>Simple Gray template for 2.3.3.4 utilizing a Jquery UI Bootstrap style skin and Colorbox image popup.
+<li><a href="http://addons.oscommerce.com/info/8991/v,23">Fast Status change button</a><br>it's little addon for faster order status change. If you are changing order's statuses with same comments, you can prepare new update buttons like bind in CounterStrike.
+<li><a href="http://addons.oscommerce.com/info/9017/v,23">Customer Checkout Blacklist</a><br>This module will help block potentially fraudulent customers checking out on your shop and preventing future charge-backs; whilst retaining the customer on the store to keep a record of the transactions and to be able to communicate with said customer.
+<li><a href="http://addons.oscommerce.com/info/9014/v,23">Advanced Categories Box V1.0</a><br>This is an osCommerce 2.3.x rewrite of the original RC2 version of the categories box. The primary differences between this and the osCommerce version are as follows:
+    <ul><li>1) Easy N level categories navigation.
+        <li>2) A sidebar menu is included to make it easy to go to any category without requiring multiple mouse clicks.
+        <li>3) A nice little pointer image replaces the -> text to indicate that a category has a subcategory.
+    </ul>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+<li><a href=""></a><br>
+
+
+
+
 </ol>
