@@ -134,31 +134,47 @@ Customers will follow the usual signup routine, whereby on completion the site a
 At the checkout-confirmation page the arrangement of shipping, payment, etc was shifted to the bottom.
 At the checkout-confirmation page the layout of the product list was changed and a product image was added to each item.
 <li><a href="http://addons.oscommerce.com/info/8588/v,23">Cleaning statistics</a><br>Cleaning statistics for: most watched and most purchased, adapted to version 2.3.3
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
+<li><a href="http://addons.oscommerce.com/info/8627/v,23">Suspending Customer Account</a><br>This addon allows you to lock a user account. For example, if a customer has not paid, You can lock his account. Customer can contact You for more info with contact form.
+<li><a href="http://addons.oscommerce.com/info/8721/v,23">product_listing as list or grid</a><br>The layout of product_listing can be shown as a list (s. list.gif) or as a grid (s.grid.gif).
+In the admin-area you can choose the way of display (s. admin.gif).
+In the grid-layout 3 columns are the default value. If you want more than 3 columns, just change the value in line 98 < if ($count_column > 2) > accordingly.
+<li><a href="http://addons.oscommerce.com/info/8794/v,23">Purchases Addon</a><br>This addon will allow you to key in products that you have bought from your suppliers/manufacturers so that you can keep track of the purchases that you have made, to view your current stock levels of each product, and to view the stock flow of your items.
+This addon will appear in your admin page on the left below "Catalog".
+<li><a href="http://addons.oscommerce.com/info/8880/v,23">product description language</a><br>n the admin when the product description in some language stay empty, you can try do this modification:
+<li><a href="http://addons.oscommerce.com/info/8939/v,23">CMS for oscommerce</a><br>oscommerce cms updated for the new version 2.3.1 
+<li><a href="http://addons.oscommerce.com/info/8672/v,23">Quick Inventory</a><br>Features:
+- Easy to Install and use
+- Various options to search products to update the inventory. Those options are Search by Products Model, Select a product by Model, Search by Category, Search By Brands.
+- With the check box options, the products images also will be display.
+<li><a href="http://addons.oscommerce.com/info/9010/v,23">Multi Orders Update V1.0 - (eng-fra-ita)</a><br>it's simple, when you have a lot of orders, i'm sure you want to updates the pending or another status. but the other contribution i found update only statuses;
+this one updates statuses, you can add comments by orders, and when you submit the store send mail to customers with his new status and his own comment.
+<li><a href="http://addons.oscommerce.com/info/9030/v,23">Contribution Tracker</a><br>This package will allow you to keep track of your add-ons to osCommerce and notify you when updates are available.
+<li><a href="http://addons.oscommerce.com/info/9104/v,23">404 Page Not Found Redirect to index</a>
+<li><a href="http://addons.oscommerce.com/info/9135/v,23">Alternative Administration System v0.3</a><br>
+Innovative way to manage products, and edit categories. Better multitasking tools with a new temporary products list. Sort and view your stock the way you want to with customized columns and category views. Display important product information directly in your full category view without having to run a special report. Easily manage and maintain your store's specials for products in a completely new way. Best of all is the completely reinvisioned Attribute Manager that allows for easy virtual product management. No more customer complaints because of faulty download paths.
+<li><a href="http://addons.oscommerce.com/info/9087/v,23">Database Check Tool 1.4</a><br>This contribution will allow you to check your database for simple errors such as duplicate product names, products price £0, products no weight, duplicate products_to_categories, categories no products and more.
+It also check for illogical database records such as product to category records that point to non-existent categories or product.
+if you load categories longer than 32 characters using easypopulate this add-on allows you to clear out the whole thing, ten you can correct the EP file and start again.
+Results have clickable buttons and links to delete records or edit them through categories.php in admin. 
+<li><a href="http://addons.oscommerce.com/info/8273/v,23">Clean orange template for 2.3.1</a><br>A very easy on the eye orange template for oscommerce version 2.3.1.
+<li><a href="http://addons.oscommerce.com/info/7912/v,23">Beautiful Breadcrumbs</a><br>
+Replaces the product model to product name when viewing a product in category view, Adds the product model to the end of the bread crumb only when viewing in manufacturer view mode.
+<li><a href="http://addons.oscommerce.com/info/7727/v,23">OSC PDF Catalogue 2.1</a><br>This is an updated version of the 2.0.9 release. The only changes are to make the contribution compatible with osCommerce v2.3.1.
+<li><a href="http://addons.oscommerce.com/info/7986/v,23">Inactive User Report/Removal version 2.0.1</a><br>This small report for admins shows all inactive users. Inactive means: User Creates an account and never made an order.
+You also can see: Newsletter YES or NO. Customers Name and Mailadress with link to mail him
+<li><a href="http://addons.oscommerce.com/info/7763/v,23">Low Stock Report v1.4<br>The purpose for this add on is to report the stock level of the products in your shop and highlight the products which are under stock level. Also, it will keep track the stock level for you and send the notification on top header in admin if the products stock level needs to be filled up.
+<li><a href="http://addons.oscommerce.com/info/9151/v,23">qrcode for invoice and packing for 2.3.x and BS2334</a>
+<li><a href="http://addons.oscommerce.com/info/9184/v,23">PayPal App</a><br>The PayPal App for osCommerce Online Merchant bundles all official PayPal payment modules including Log In with PayPal into one App package.
+<li><a href="http://addons.oscommerce.com/info/8497/v,23">Configuration Infobox Multilingual-2.3.1</a><br>I have made the Configuration Infobox in the Admin CP multilingual. If yor browser turn on german, it's shows the box in German.
+If your brower in english, it's shows the box in english.
+<li><a href="http://addons.oscommerce.com/info/8065/v,23">Scroll boxes</a><br>Scroll whats new box and specials box for 2.3 , some extra functions.
+<li><a href="http://addons.oscommerce.com/info/9177/v,23">Product Delete Delay</a><br>Have you ever deleted a product from your web site and then wished that you hadn't done so? This contribution will help by delaying actual product deletion for a selectable number of months. You may restore any deleted product easily so long as you do so before the time set for permanent deletion expires.
+<li><a href="http://addons.oscommerce.com/info/8057/v,23">Optional Related Products</a>
+<li><a href="http://addons.oscommerce.com/info/8114/v,23">Compare Products</a>
+<li><a href="http://addons.oscommerce.com/info/8545/v,23">Unique Order Number</a><br>
+This contribution will create a unique Order Number, which is basically based on php's date() function.
+The order number will consist of: Month, Year, Hour, Minute, Second. Basically:
+date("mdY-His") = mmddyyyy-hhmmss (14 DIGITS)
 <li><a href=""></a><br>
 <li><a href=""></a><br>
 <li><a href=""></a><br>
