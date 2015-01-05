@@ -69,7 +69,7 @@ Indholdet af de forskellige afsnit ovenfor vil blive specificeret her:
 <li><a href="http://addons.oscommerce.com/info/8741/v,23">Skip Payments Page</a><br>This add-on is written to skip the payments page if the basket total is zero.
 <li><a href="http://addons.oscommerce.com/info/8742/v,23">Skip Shipping Page</a><br>
 This add-on is written to skip the shipping page if the basket total is zero and the total weight is zero. You can amend these rules to reflect your requirements.
-<li>a href="http://addons.oscommerce.com/info/7703/v,23">Tab Menu Section (TMS)</a><BR>With this add-on you can add a tab-menu with content to the products site, see screenshot.jpg inside of this package.
+<li><a href="http://addons.oscommerce.com/info/7703/v,23">Tab Menu Section (TMS)</a><BR>With this add-on you can add a tab-menu with content to the products site, see screenshot.jpg inside of this package.
 This contribution is very useful if you have a lot of content for articles and no space on the article page. For example,
 you can create tabs for: Description, Additional Images, Reviews, Related Products, Prices, Twitter, Facebook etc.
 <li><a href="http://addons.oscommerce.com/info/8751/v,23">Choose destination on Log in if cart has items</a><br>This addon detects if an item is in the customers shopping cart when they log in, if there is then they are presented with a choice page.
@@ -79,7 +79,7 @@ you can create tabs for: Description, Additional Images, Reviews, Related Produc
 <li><a href="http://addons.oscommerce.com/info/8794/v,23">Purchases Addon</a><br>This addon will allow you to key in products that you have bought from your suppliers/manufacturers so that you can keep track of the purchases that you have made, to view your current stock levels of each product, and to view the stock flow of your items.
 This addon will appear in your admin page on the left below "Catalog".
 <li><a href="http://addons.oscommerce.com/info/8378/v,23">Shop By Attribute</a><br>This contribution allows you to add a a Shop by feature on your site so you customers can shop by color, size or any other attribute you have.
-<li>< a href="http://addons.oscommerce.com/info/8364/v,23">PDF Datasheet</a><br>This addon creates a PDF document containing the information found on each of your osCommerce product pages. This allows your customer to save or print a nice-looking catalog page for each of your products.
+<li><a href="http://addons.oscommerce.com/info/8364/v,23">PDF Datasheet</a><br>This addon creates a PDF document containing the information found on each of your osCommerce product pages. This allows your customer to save or print a nice-looking catalog page for each of your products.
 <li><a href="http://addons.oscommerce.com/info/8868/v,23">Display Both Products & Categories</a><br>
 By default osCommerce only displays the products contained in a category if the category happens to contain both products and other subcategories. Since users browsing the web site might not notice that the category contains subcategories if they are listed only in the categories info box I wanted to display both the subcategories and the products contained in the category in the main window. This modification allows you to do that with simple changes to only one file.
 <li><a href="http://addons.oscommerce.com/info/7993/v,23">One Page Checkout for 2.3.1</a>
@@ -113,17 +113,27 @@ It checks stock levels and if a selected item is out of stock it will replace th
 <li><a href="http://addons.oscommerce.com/info/9169/v,23">NotifyVisitors - Notification Management Software</a><br>Create notifications and show them to target audience based on multiple filters like location, traffic source, browser or device type, visit frequency or duration, time of day, page views, operating system, cookie, leave intent targeting, custom data rules and many more.
 <li><a href="http://addons.oscommerce.com/info/7786">QTpro for osc 2.3</a><br>Track and manage attribute stock.
 You need this if you sell 1 items with various attributes, and you want to control stock on attribute level.
-
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
-<li><a href=""></a><br>
+<li><a href="http://addons.oscommerce.com/info/7702/v,23">Cron Simulator V 1.0</a>
+<li><a href="http://addons.oscommerce.com/info/7796/v,23">New Orders Notification</a><br>If anyone would like to receive an email when orders are placed without using up your extra orders field in admin. This is a 1 line add on only takes 5 mins or less.
+<li><a href="http://addons.oscommerce.com/info/7914/v,23">Quantity Box on Product Info Page</a><br>Update to Quantity Box on Producy Info Page that is found <a href="http://addons.oscommerce.com/info/7430">here</a>
+<li><a href="http://addons.oscommerce.com/info/7930/v,23">Welcome Email username & password</a><br>ADD CUSTOMERS USERNAME & PASSWORD TO WELCOME EMAIL
+<li><a href="http://addons.oscommerce.com/info/8146/v,23">Unit of Weight</a><br>It is fairly easy for myself as a developer to remember what the weight field is on the "Add a product page" in the admin. But for someone who adds products infrequently it can be a mystery. Do I use kilograms or lbs, or ounces or grams or some other unit? This add on will help address that problem.
+This add-on will let the shop owner specify which weight unit they want to use for their shop and also let them enter the weight in a different unit and convert it to the main specified unit of weight.
+<li><a href="http://addons.oscommerce.com/info/8096/v,23">Products Specifications</a><br>This addon allows the addition of an unlimited number of
+specifications to the site's products. These can be used for:
+1. A table of specifications on the Product Info page.
+2. A comparison table showing the specifications of a group of products.
+3. A set of filters to allow the customer to show only products that meet
+certain criteria. This could be all AGP video cards with 256MB of memory, the
+parts for a 1992 Yugo, or anything else you might want to set up.
+4. Feeds to search engines and shopping sites needing extra data fields
+<li><a href="http://addons.oscommerce.com/info/8260/v,23">add field to shopping cart</a><br>A new field is added to the table products. The data of this new field is shown on the one hand at the product_info-page after the products description and on the other hand as an additional info to the comment in the shopping_cart (s. screenshots).
+<li><a href="http://addons.oscommerce.com/info/8523/v,23">Member Approval 1.6</a><br>This module will allow administrators to approve members before they have access to the shopping cart facilities.
+Customers will follow the usual signup routine, whereby on completion the site administrator receives an e-mail notifying that a new customer has signed up.
+<li><a href="http://addons.oscommerce.com/info/8582/v,23">Cleared Checkout Layout</a><br>The position of the checkout bar moved from bottom to the top of the page and numbers have been added to it.
+At the checkout-confirmation page the arrangement of shipping, payment, etc was shifted to the bottom.
+At the checkout-confirmation page the layout of the product list was changed and a product image was added to each item.
+<li><a href="http://addons.oscommerce.com/info/8588/v,23">Cleaning statistics</a><br>Cleaning statistics for: most watched and most purchased, adapted to version 2.3.3
 <li><a href=""></a><br>
 <li><a href=""></a><br>
 <li><a href=""></a><br>
